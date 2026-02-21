@@ -1,5 +1,8 @@
 # 🔥 TDEE Calculator 🔥
 
+
+Built by [@meimakes](https://x.com/meimakes)
+
 ## *Know your numbers. Fuel your life.*
 
 ## 🧠 What's This All About?
